@@ -1,7 +1,7 @@
 class Awscli < Formula
   homepage "https://aws.amazon.com/cli/"
   url "https://pypi.python.org/packages/source/a/awscli/awscli-1.7.23.tar.gz"
-  sha256 "8CD41D57924197DFECF70F291935378EB54A80A1CC87E871F924BC9256B77ED9"
+  sha256 "8cd41d57924197dfecf70f291935378eb54a80a1cc87e871f924bc9256b77ed9"
 
   bottle do
     cellar :any
